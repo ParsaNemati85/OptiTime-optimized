@@ -12,7 +12,6 @@ Features:
 Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Frameworks: Firebase for real-time database interactions
-- APIs: Climacell for weather data integration
 - ChatGPT: ChatGPT for strictly syntaxtual debugging and minor code adjustments and optimizations,
 no code was taken directly
 
